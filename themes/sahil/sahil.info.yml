@@ -1,0 +1,13 @@
+name: sahil
+description: 'This is a Drupal 8 theme'
+type: theme
+package: Custom
+core: 8.x
+libraries:
+  - sahil/styling
+regions:
+  header: header
+  menu: menu
+  content: content
+  sidebar: sidebar  
+  footer: footer
